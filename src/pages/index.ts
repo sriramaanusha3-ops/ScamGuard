@@ -1,0 +1,14 @@
+export { DashboardPage } from './DashboardPage';
+export { AnalyzePage } from './AnalyzePage';
+export { CompanyVerifyPage } from './CompanyVerifyPage';
+export { RecruiterVerifyPage } from './RecruiterVerifyPage';
+export { ChatPage } from './ChatPage';
+export { HistoryPage } from './HistoryPage';
+export { AuthPage } from './AuthPage';
+export { SettingsPage } from './SettingsPage';
+export { ScamPatternsPage } from './ScamPatternsPage';
+export { ResumeAnalysisPage } from './ResumeAnalysisPage';
+export { SalaryAnalyzerPage } from './SalaryAnalyzerPage';
+export { JobAnalyzerPage } from './JobAnalyzerPage';
+export { CertificateVerifyPage } from './CertificateVerifyPage';
+export { OfferComparisonPage } from './OfferComparisonPage';
